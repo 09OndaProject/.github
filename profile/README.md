@@ -86,7 +86,7 @@
 
 ### FE
 
-| <a href="https://github.com/kjy0124"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@kjy0124</b></sub></a> | <a href="https://github.com/Leekwanyong"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@Leekwanyong</b></sub></a> | <a href="https://github.com/PARKJINJIN222"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@PARKJINJIN222</b></sub></a> | <a href="https://github.com/PARKJINJIN222"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@PARKJINJIN222</b></sub></a> |
+| <a href="https://github.com/kyl6682"><img src="https://avatars.githubusercontent.com/u/64291776?v=4" width="100px"/><br/><sub><b>@kyl6682</b></sub></a> | <a href="https://github.com/kjy0124"><img src="https://avatars.githubusercontent.com/u/114080381?v=4" width="100px"/><br/><sub><b>@kjy0124</b></sub></a> | <a href="https://github.com/sewook11"><img src="https://avatars.githubusercontent.com/u/194044607?v=4" width="100px"/><br/><sub><b>@sewook11</b></sub></a> | <a href="https://github.com/jiyea0904"><img src="https://avatars.githubusercontent.com/u/69047640?v=4" width="100px"/><br/><sub><b>@jiyea0904</b></sub></a> |
 |:--:|:--:|:--:|:--:|
 | 김유림 | 김종엽 | 엄세욱 | 김지예 |
 
