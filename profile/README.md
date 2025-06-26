@@ -72,6 +72,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![Django Channels](https://img.shields.io/badge/Django_Channels-30B8D2?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge)
+
 
 ## 🚀 Deploy / DevOps
 ![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
