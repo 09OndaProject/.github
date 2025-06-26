@@ -1,21 +1,21 @@
-# WiStarBack
+# Onda
 ## 📖 프로젝트 소개
 
-K-POP 시장의 성장과 함께 팬들의 정보 소비 방식도 다양해지고 있지만, 아티스트의 공식 일정을 한눈에 정리해 볼 수 있는 플랫폼은 부족한 실정입니다. 기존 서비스는 대부분 직접적인 소통 중심이라 일정 관리에는 한계가 있습니다.
+온다(ONDA)는 **대한민국 `고령층`을 위한 `시니어 맞춤형 지역 커뮤니티 플랫폼`**입니다.
 
-엑소더스ENT는 ‘최애돌’ 서비스에 아이돌 스케줄 캘린더 기능 도입을 준비 중이며, 이를 기반으로 한 일정 중심 서비스 모델을 제시하고 있습니다.
+디지털 소외와 사회적 고립을 겪는 고령층이 **지역 기반 모임에 참여하고, 스스로 `배움`과 `나눔`의 주체로 활동** 할 수 있도록 돕는 `서비스`입니다.
 
-WiStar는 이러한 흐름에 착안해, 팬들이 원하는 아티스트의 일정만 선택해 확인하고, 팬들 간 가볍게 소통할 수 있는 커뮤니티 공간을 제공하는 실용적인 일정 관리 서비스로 기획되었습니다.
+모임 추천·신청, 강좌 개설, 후기 피드백, 커뮤니티 게시판 등의 기능을 통해, **지속 가능한 사회 참여와 교류를 지원**합니다.
 
 ---
 ## :link: 배포 링크
 
-> ### [⛪ 배포 링크 예시 - WiStar](https://wistar.o-r.kr)
+> ### [⛪ 배포 링크 ](https://www.ondamoim.com)
 
 ---
 ## 🗣️ 프로젝트 발표 영상 & 발표 문서
 
-> ### [📑 발표 문서 ](https://www.canva.com/design/DAGn8XvgEVY/XTSkiXu6RWj9odMcOsRNGw/edit)
+> ### [📑 발표 문서 ](https://www.figma.com/design/SI77AX1XtytcGyGZawpqre/%EC%98%A4%EC%A6%88-%ED%95%A9%EB%8F%99-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1847-3&p=f&t=6qlGIrzC1bUYapcu-0)
 
 ---
 
@@ -86,16 +86,16 @@ WiStar는 이러한 흐름에 착안해, 팬들이 원하는 아티스트의 일
 
 ### FE
 
-| <a href="https://github.com/kjy0124"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@kjy0124</b></sub></a> | <a href="https://github.com/Leekwanyong"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@Leekwanyong</b></sub></a> | <a href="https://github.com/PARKJINJIN222"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@PARKJINJIN222</b></sub></a> |
-|:--:|:--:|:--:|
-| 김종엽 | 이관용 | 박진호 |
+| <a href="https://github.com/kjy0124"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@kjy0124</b></sub></a> | <a href="https://github.com/Leekwanyong"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@Leekwanyong</b></sub></a> | <a href="https://github.com/PARKJINJIN222"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@PARKJINJIN222</b></sub></a> | <a href="https://github.com/PARKJINJIN222"><img src="https://avatars.githubusercontent.com/u/93540726?v=4" width="100px"/><br/><sub><b>@PARKJINJIN222</b></sub></a> |
+|:--:|:--:|:--:|:--:|
+| 김유림 | 김종엽 | 엄세욱 | 김지예 |
 
 
 ### BE
 
-| <a href="https://github.com/gkw314"><img src="https://avatars.githubusercontent.com/u/85716720?v=4" width="100px"/><br/><sub><b>@gkw314</b></sub></a> | <a href="https://github.com/orioncsy"><img src="https://avatars.githubusercontent.com/u/90237119?v=4" width="100px"/><br/><sub><b>@LucasKim4321</b></sub></a> | <a href="https://github.com/hyazzang"><img src="https://avatars.githubusercontent.com/u/77969043?v=4" width="100px"/><br/><sub><b>@hyazzang</b></sub></a> | <a href="https://github.com/myeongbogyeong"><img src="https://avatars.githubusercontent.com/u/77969043?v=4" width="100px"/><br/><sub><b>@myeongbogyeong</b></sub></a> |
-|:--:|:--:|:--:|:--:|
-| 고근우 | 김태진 | 정영하 | 명보경 |
+| <a href="https://github.com/LucasKim4321"><img src="https://avatars.githubusercontent.com/u/165813806?v=4" width="100px"/><br/><sub><b>@LucasKim4321</b></sub></a> | <a href="https://github.com/WOOJOUNG-KIM"><img src="https://avatars.githubusercontent.com/u/193290568?v=4" width="100px"/><br/><sub><b>@WOOJOUNG-KIM</b></sub></a> | <a href="https://github.com/GwonDohyeon"><img src="https://avatars.githubusercontent.com/u/125738341?v=4" width="100px"/><br/><sub><b>@GwonDohyeon</b></sub></a> | <a href="https://github.com/gkw314"><img src="https://avatars.githubusercontent.com/u/193190549?v=4" width="100px"/><br/><sub><b>@gkw314</b></sub></a> | <a href="https://github.com/kimjisooooo"><img src="https://avatars.githubusercontent.com/u/167497853?v=4" width="100px"/><br/><sub><b>@kimjisooooo</b></sub></a> |
+|:--:|:--:|:--:|:--:|:--:|
+| 김태진 | 김우중 | 권도현 | 고근우 | 김지수 |
 
 
 ## 📑 프로젝트 규칙
@@ -174,14 +174,16 @@ WiStar는 이러한 흐름에 착안해, 팬들이 원하는 아티스트의 일
 
 
 ## :clipboard: Documents
-> [📜 노션 페이지](https://legend-palm-1f1.notion.site/WeStar-1d5caf5650aa81c3b053fef36809d3fa)
+> [📜 노션 페이지](https://www.notion.so/21e03b0502dd80cfa05dd9dd3fbe6971)
 >
-> [📜 API 명세서](https://docs.google.com/spreadsheets/d/1iRFoYlJupYTs26U1PBsnsIMU6Yf5ulGjj6_-FxASFGc/edit?gid=69946276#gid=69946276)
+> [📜 API 명세서](https://docs.google.com/spreadsheets/d/1vDey25VXdpM7jESDn6G4z4QhjAzruxhVRhyw7PCtkuQ/edit?gid=1089307533#gid=1089307533)
 > 
-> [📜 요구사항 정의서](https://docs.google.com/spreadsheets/d/1j6LmhFHiRqi9j7MlOIx9FTuPqTV3b5InJgEGm05m4CI/edit?gid=428803499#gid=428803499)
+> [📜 요구사항 정의서](https://docs.google.com/spreadsheets/d/1vDey25VXdpM7jESDn6G4z4QhjAzruxhVRhyw7PCtkuQ/edit?gid=428803499#gid=428803499)
 > 
-> [📜 ERD 다이어그램](https://drive.google.com/file/d/13ADl5WzuDYPcgHTkB6wKpu2tTwsJDX3s/view?usp=sharing)
+> [📜 ERD 다이어그램](https://www.erdcloud.com/d/29MtJyaJtxmGSihTZ)
 > 
-> [📜 테이블 명세서](https://docs.google.com/spreadsheets/d/12pDVQs0daAvF2T8SBJ7TGTXsyEkNbVAuEVa_CjuTdoo/edit?gid=0#gid=0)
+> [📜 테이블 명세서](https://docs.google.com/spreadsheets/d/1vDey25VXdpM7jESDn6G4z4QhjAzruxhVRhyw7PCtkuQ/edit?gid=1291022855#gid=1291022855)
 >
-> [📜 화면 정의서](https://www.figma.com/design/ItmTtXoVbTqDyUwyAjsnNe/%EC%98%A4%EC%A6%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8idol)
+> [📜 와이어 프레임](https://www.figma.com/design/SI77AX1XtytcGyGZawpqre/%EC%98%A4%EC%A6%88-%ED%95%A9%EB%8F%99-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&p=f&t=6qlGIrzC1bUYapcu-0)
+>
+> [📜 화면 정의서](https://www.figma.com/design/SI77AX1XtytcGyGZawpqre/%EC%98%A4%EC%A6%88-%ED%95%A9%EB%8F%99-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=179-842&p=f&t=6qlGIrzC1bUYapcu-0)
