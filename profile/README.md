@@ -46,7 +46,7 @@
 
 ### :wrench: System Architecture
 
-<img width="950" alt="Image" src="https://github.com/user-attachments/assets/e36ae17f-dd00-4c68-b39b-9fe8b2d061f3" />
+![기술 스택 이미지](사용 스택2025-06-27 16.43.25.png)
 
 ## 🖥️ Front-End  
 
