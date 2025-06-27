@@ -15,7 +15,7 @@
 ---
 ## 🗣️ 프로젝트 발표 영상 & 발표 문서
 
-> ### [📑 발표 문서 ](https://www.figma.com/design/SI77AX1XtytcGyGZawpqre/%EC%98%A4%EC%A6%88-%ED%95%A9%EB%8F%99-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1847-3&p=f&t=6qlGIrzC1bUYapcu-0)
+> ### [📑 발표 문서 ](https://drive.google.com/file/d/108IEdBzxOIaxmOWh5HhqrJZYUqnGdd9U/view?usp=drive_link)
 
 ---
 
