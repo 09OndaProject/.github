@@ -15,24 +15,13 @@
 ---
 ## 🗣️ 프로젝트 발표 영상 & 발표 문서
 
-> ### [📑 발표 문서 ](https://drive.google.com/file/d/108IEdBzxOIaxmOWh5HhqrJZYUqnGdd9U/view?usp=drive_link)
+> ### [📑 발표 문서 ](https://drive.google.com/file/d/1-kdpvvb2T74POYIiwiqWNUAZkMFz3J1L/view?usp=drive_link)
 
 ---
 
 ## 🖥️ 서비스 소개
 
-
-| 메인 움짤 1 | 메인 움짤 2 |
-|:--:|:--:|
-
-| 로그인 | 회원가입 | 소셜 로그인 |
-|:--:|:--:|:--:|
-
-| 게시글 목록 | 게시글 상세 | 게시글 작성 |
-|:--:|:--:|:--:|
-
-| Swagger 문서 | ReDoc 문서 |  |
-|:--:|:--:|:--:|
+> ### [📑 시연 영상 ](https://drive.google.com/file/d/1-slz8F88sWEsfS9_X9mhezCQdBovNKwT/view?usp=drive_link)
 
 
 ## 🧰 사용 스택
